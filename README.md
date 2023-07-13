@@ -32,6 +32,7 @@ Currently learning 🌱:
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"  title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
@@ -43,16 +44,30 @@ Currently learning 🌱:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-### 🔥 Stats
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=FrozenBirdXD&theme=dark)](https://git.io/streak-stats)
-![Matthew's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FrozenBirdXD&show_icons=true&theme=dark)
+### 🔥 Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenBirdXD&theme=dark&hide=cmake,c%2B%2B,css)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary>Statistics 📈</summary>
+<br>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=FrozenBirdXD&theme=dracula)
+![Matthew's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FrozenBirdXD&show_icons=true&theme=dracula)
 
+![commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrozenBirdXD&theme=dracula) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenBirdXD&theme=dracula&hide=cmake,c%2B%2B,css)
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ek25ji1lvsk5hntjz0nqnol9g&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
+
