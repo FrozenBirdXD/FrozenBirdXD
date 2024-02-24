@@ -18,9 +18,10 @@ Interests ⚡:
 -   Lot's of other stuff
 
 Currently learning 🌱:
--   More about machine learning
+-   C++
 -   Algorithms and data structures
 -   LWJGL (OpenGL + GLFW)
+-   More about machine learning
     
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
