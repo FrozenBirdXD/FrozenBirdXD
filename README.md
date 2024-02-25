@@ -56,7 +56,7 @@ Currently learning 🌱:
 
 ![commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrozenBirdXD&theme=dracula) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenBirdXD&theme=dracula&hide=cmake,c%2B%2B,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenBirdXD&theme=dracula&hide=cmake,css)
 
 <br>
 Currently Coding & Listening to:
