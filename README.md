@@ -20,7 +20,7 @@ Interests ⚡:
 Currently learning 🌱:
 -   C++
 -   Algorithms and data structures
--   LWJGL (OpenGL + GLFW)
+-   Qt for C++
 -   More about machine learning
     
 
@@ -34,6 +34,7 @@ Currently learning 🌱:
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
@@ -60,7 +61,7 @@ Currently learning 🌱:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenBirdXD&theme=dracula&hide=cmake,css)
 
 <br>
-Currently Coding & Listening to:
+Probably Coding right now & Listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ek25ji1lvsk5hntjz0nqnol9g&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
