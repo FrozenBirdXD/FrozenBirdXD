@@ -9,7 +9,7 @@
 
 ### About Me 🙂
 
-Hi there! I'm a student who's passionate about technology. I enjoy learning new stuff and working on my skills.
+Hi there! I'm a student who's passionate about technology. I enjoy learning new stuff and working on my skills. Here on Github you can find some of my Coding Projects, take a look!
 
 Interests ⚡:
 -   Machine Learning & AI
