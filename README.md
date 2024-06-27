@@ -12,9 +12,10 @@
 Hi there! I'm a student who's passionate about technology. I enjoy learning new stuff and working on my skills. Here on Github you can find some of my Coding Projects, take a look!
 
 Interests ⚡:
--   Machine Learning & AI
 -   Open Source Software Development
 -   Cyber Security
+-   Cloud Computing
+-   Machine Learning & AI
 -   Lot's of other stuff
 
 Currently learning 🌱:
