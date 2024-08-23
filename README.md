@@ -19,9 +19,9 @@ Interests ⚡:
 -   Lot's of other stuff
 
 Currently learning 🌱:
--   C++
+-   C
+-   Compression Algorithms
 -   Algorithms and data structures
--   Qt for C++
 -   More about machine learning
     
 
