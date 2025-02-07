@@ -9,20 +9,18 @@
 
 ### About Me 🙂
 
-Hi there! I'm a student who's passionate about technology. I enjoy learning new stuff and working on my skills. Here on Github you can find some of my Coding Projects, take a look!
+Hi there! I'm a student who's passionate about tech. I enjoy learning new stuff and working on my skills. Here you can find some of my Projects
 
 Interests ⚡:
 -   Open Source Software Development
--   Cyber Security
+-   Linux
+-   Cyber Sec
 -   Cloud Computing
--   Machine Learning & AI
--   Lot's of other stuff
+-   Lots of other stuff
 
 Currently learning 🌱:
 -   C
--   Compression Algorithms
--   Algorithms and data structures
--   More about machine learning
+-   Lots about Risc-V
     
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -51,7 +49,7 @@ Currently learning 🌱:
 ### 🔥 Stats 
 
 <details>
-<summary>Statistics 📈</summary>
+<summary>Stats 📈</summary>
 <br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=FrozenBirdXD&theme=dracula)
@@ -62,7 +60,7 @@ Currently learning 🌱:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenBirdXD&theme=dracula&hide=cmake,css)
 
 <br>
-Probably Coding right now & Listening to:
+Probably coding right now & listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ek25ji1lvsk5hntjz0nqnol9g&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
