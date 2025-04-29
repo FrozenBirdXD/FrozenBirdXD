@@ -59,7 +59,7 @@ Currently learning 🌱:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenBirdXD&theme=dracula&hide=cmake,css)
 
 <br>
-Probably coding right now & listening to:
+Probably doing really boring nerd stuff now & listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ek25ji1lvsk5hntjz0nqnol9g&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
